@@ -6,4 +6,4 @@ clas.forEach(element => {
     })
 });
 
-//create a button
+//create a button for sign up
