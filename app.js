@@ -5,3 +5,5 @@ clas.forEach(element => {
         alert("Currently spotify is not working.");
     })
 });
+
+//create a button
